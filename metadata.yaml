@@ -1,0 +1,34 @@
+_repo: Foot-prints-of-Travel--Or-Journeyings-in-Many-Lands_27874
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Ballou, Maturin M. (Maturin Murray)
+    - Forester, Frank
+    - Ballou, M. M. (Maturin Murray)
+    - Murray, Lieutenant
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_issued: '2009-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27874'
+  lccn: '05027626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballou, Maturin Murray, 1820-1895 -- Travel'
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+title: Foot-prints of Travel; Or, Journeyings in Many Lands
+url: http://www.gutenberg.org/ebooks/27874
